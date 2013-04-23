@@ -3,7 +3,8 @@ git_learn
 b1 add
 <<<<<<< HEAD
 bSECOND2
-=======
->>>>>>> main
 bbbb2-Main
+=======
+bSECOND2-Main
+>>>>>>> second
 git_learn
