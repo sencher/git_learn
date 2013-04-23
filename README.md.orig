@@ -2,8 +2,8 @@ git_learn
 =========
 b1 add
 <<<<<<< HEAD
-bbbb2-Main
-=======
 bSECOND2
->>>>>>> second
+=======
+>>>>>>> main
+bbbb2-Main
 git_learn
