@@ -1,0 +1,28 @@
+<root>
+  <Paths>
+    <Path>res/packages/shared_content.pkg</Path>
+    <Path>res/packages/misc.pkg</Path>
+    <Path>res/packages/destructible_objects.pkg</Path>
+    <Path>res/packages/gui.pkg</Path>
+    <Path>res/packages/vehicles_airplanes_american.pkg</Path>
+    <Path>res/packages/vehicles_airplanes_german.pkg</Path>
+    <Path>res/packages/vehicles_airplanes_russian.pkg</Path>
+    <Path>res/packages/vehicles_airplanes_japan.pkg</Path>
+    <Path>res/packages/airplanes_common.pkg</Path>
+    <Path>res/packages/shaders.pkg</Path>
+    <Path>res/packages/00_01_hangar_base.pkg</Path>
+    <Path>res/packages/00_02_hangar_premium.pkg</Path>
+    <Path>res/packages/01_novorossiysk.pkg</Path>
+    <Path>res/packages/02_el_hallouf.pkg</Path>
+    <Path>res/packages/03_pacific.pkg</Path>
+    <Path>res/packages/04_yosemite.pkg</Path>
+    <Path>res/packages/05_lighthouse.pkg</Path>
+    <Path>res/packages/06_tutorial.pkg</Path>
+    <Path>res/packages/07_san_francisco.pkg</Path>
+    <Path>res/packages/08_burma.pkg</Path>
+    <Path>res/packages/09_greenland.pkg</Path>
+    <Path>res/packages/11_arizona.pkg</Path>
+    <Path>res</Path>
+    <Path>res_bw</Path>
+  </Paths>
+</root>
